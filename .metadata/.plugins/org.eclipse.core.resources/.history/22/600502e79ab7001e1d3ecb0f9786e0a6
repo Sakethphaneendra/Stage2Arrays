@@ -1,0 +1,11 @@
+package programsList;
+
+public class InsertionSort {
+
+	public static void main(String[] args) {
+		
+		int arr[] = new int[] {1,5,36,2,35,2,79,284,68};
+
+	}
+
+}

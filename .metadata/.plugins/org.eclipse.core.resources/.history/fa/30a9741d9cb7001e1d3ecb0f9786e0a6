@@ -1,0 +1,11 @@
+package programsList;
+
+public class LargestElementInArray {
+
+	public static void main(String[] args) {
+		
+		int[] arr = new int[] {1,6,8,34,49,23,24,64,12,43};
+
+	}
+
+}
