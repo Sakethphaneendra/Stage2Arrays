@@ -1,0 +1,14 @@
+package programsList;
+import java.util.Scanner;
+public class ArmStrongNumber {
+
+	public static void main(String[] args) {
+			Scanner in = new Scanner(System.in);
+			
+			System.out.print("Enter an Numeber  : ");
+			int n = in.nextInt();
+		
+
+	}
+
+}
